@@ -1,0 +1,12 @@
+/dist/
+/verification/
+/发布版/
+/.impeccable/
+*.exe
+*.dll
+*.pdb
+settings.json
+settings.json.*
+settings.*.tmp
+.DS_Store
+Thumbs.db
